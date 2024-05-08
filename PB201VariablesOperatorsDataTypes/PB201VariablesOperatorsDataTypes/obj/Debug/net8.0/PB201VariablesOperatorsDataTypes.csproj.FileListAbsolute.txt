@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\bin\Debug\net8.0\PB201VariablesOperatorsDataTypes.exe
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\bin\Debug\net8.0\PB201VariablesOperatorsDataTypes.deps.json
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\bin\Debug\net8.0\PB201VariablesOperatorsDataTypes.runtimeconfig.json
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\bin\Debug\net8.0\PB201VariablesOperatorsDataTypes.dll
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\bin\Debug\net8.0\PB201VariablesOperatorsDataTypes.pdb
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.dll
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\refint\PB201VariablesOperatorsDataTypes.dll
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.pdb
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\PB201VariablesOperatorsDataTypes.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB201VariablesOperatorsDataTypes\PB201VariablesOperatorsDataTypes\obj\Debug\net8.0\ref\PB201VariablesOperatorsDataTypes.dll
